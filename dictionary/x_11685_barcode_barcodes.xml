@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Barcodes" max_length="40" name="x_11685_barcode_barcodes" type="collection">
+        <element label="Number" max_length="40" name="number" type="string"/>
+        <element label="Value 1" max_length="40" name="value_1" type="string"/>
+        <element label="Value 2" max_length="40" name="value_2" type="string"/>
+        <element label="Value 3" max_length="40" name="value_3" type="string"/>
+    </element>
+</database>

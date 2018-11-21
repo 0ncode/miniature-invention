@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_11685_barcode_barcodes" version="2" view="Mobile">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_11685_barcode_barcodes" element="NULL" name="x_11685_barcode_barcodes" parent="NULL" relationship="NULL" sys_domain="global" view="3732736181131300aadba4a47c598e41">4bb172f4dbb16300c61185184b96190e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-13 15:18:00</sys_created_on>
+            <sys_id>03b172f4dbb16300c61185184b96190f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-13 15:18:00</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>value_1</element>
+            <list_id display_value="x_11685_barcode_barcodes" element="NULL" name="x_11685_barcode_barcodes" parent="NULL" relationship="NULL" sys_domain="global" view="3732736181131300aadba4a47c598e41">4bb172f4dbb16300c61185184b96190e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-13 15:18:00</sys_created_on>
+            <sys_id>83b172f4dbb16300c61185184b96190f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-13 15:18:00</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>value_2</element>
+            <list_id display_value="x_11685_barcode_barcodes" element="NULL" name="x_11685_barcode_barcodes" parent="NULL" relationship="NULL" sys_domain="global" view="3732736181131300aadba4a47c598e41">4bb172f4dbb16300c61185184b96190e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-13 15:18:00</sys_created_on>
+            <sys_id>07b172f4dbb16300c61185184b96190f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-13 15:18:00</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>value_3</element>
+            <list_id display_value="x_11685_barcode_barcodes" element="NULL" name="x_11685_barcode_barcodes" parent="NULL" relationship="NULL" sys_domain="global" view="3732736181131300aadba4a47c598e41">4bb172f4dbb16300c61185184b96190e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-13 15:18:00</sys_created_on>
+            <sys_id>87b172f4dbb16300c61185184b96190f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-13 15:18:00</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_11685_barcode_barcodes</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-13 15:18:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4bb172f4dbb16300c61185184b96190e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_11685_barcode_barcodes</sys_name>
+            <sys_package display_value="Barcode" source="x_11685_barcode">8bcde6b0dbb16300c61185184b9619dc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Barcode">8bcde6b0dbb16300c61185184b9619dc</sys_scope>
+            <sys_update_name>sys_ui_list_x_11685_barcode_barcodes_Mobile</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-13 15:18:00</sys_updated_on>
+            <sys_user/>
+            <view display_value="Mobile" name="Mobile">3732736181131300aadba4a47c598e41</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

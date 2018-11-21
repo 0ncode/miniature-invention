@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_widget">
+    <sp_widget action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <client_script><![CDATA[function(cabrillo) {
+	/* widget controller */
+	var c = this;
+	c.scanNow = function(){
+		cabrillo.camera.getBarcode().then(function(barcode) {
+			if (barcode) {
+				alert(barcode);
+				console.log('Scanned barcode.', barcode);
+			} else {
+				console.log('User cancelled scanning barcode.');
+			}
+		}, function(error) {
+			console.log('Failed to scan barcode.', error);
+		});
+	}
+}]]></client_script>
+        <controller_as>c</controller_as>
+        <css/>
+        <data_table>sp_instance</data_table>
+        <demo_data/>
+        <description/>
+        <docs/>
+        <field_list/>
+        <has_preview>false</has_preview>
+        <id>barcode_scanner</id>
+        <internal>false</internal>
+        <link/>
+        <name>Barcode Scanner</name>
+        <option_schema/>
+        <public>false</public>
+        <roles/>
+        <script><![CDATA[(function() {  /* populate the 'data' object */  /* e.g., data.table = $sp.getValue('table'); */})();]]></script>
+        <servicenow>false</servicenow>
+        <sys_class_name>sp_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-13 15:06:46</sys_created_on>
+        <sys_id>a62fe2f0dbb16300c61185184b96194a</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Barcode Scanner</sys_name>
+        <sys_package display_value="Barcode" source="x_11685_barcode">8bcde6b0dbb16300c61185184b9619dc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Barcode">8bcde6b0dbb16300c61185184b9619dc</sys_scope>
+        <sys_update_name>sp_widget_a62fe2f0dbb16300c61185184b96194a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-13 15:23:21</sys_updated_on>
+        <template><![CDATA[<div>
+  <!-- your widget template -->
+  <button class="btn btn-primary" ng-click="c.scanNow()">Scan Now</button>
+</div>]]></template>
+    </sp_widget>
+</record_update>
