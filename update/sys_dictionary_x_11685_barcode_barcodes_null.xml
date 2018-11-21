@@ -53,15 +53,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-11-13 15:02:00</sys_created_on>
-        <sys_id>a01ea2f0dbb16300c61185184b96194b</sys_id>
+        <sys_id>02713b57db356300c61185184b9619b8</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_11685_barcode_barcodes</sys_name>
         <sys_package display_value="Barcode" source="x_11685_barcode">8bcde6b0dbb16300c61185184b9619dc</sys_package>
         <sys_policy/>
         <sys_scope display_value="Barcode">8bcde6b0dbb16300c61185184b9619dc</sys_scope>
-        <sys_update_name>sys_dictionary_x_11685_barcode_barcodes_null</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-11-13 15:02:00</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_11685_barcode_barcodes_NULL</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-11-21 14:21:17</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

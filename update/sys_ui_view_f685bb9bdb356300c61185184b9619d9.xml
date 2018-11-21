@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>Business_application</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-21 14:39:04</sys_created_on>
+        <sys_id>f685bb9bdb356300c61185184b9619d9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Business_application</sys_name>
+        <sys_package display_value="Barcode" source="x_11685_barcode">8bcde6b0dbb16300c61185184b9619dc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Barcode">8bcde6b0dbb16300c61185184b9619dc</sys_scope>
+        <sys_update_name>sys_ui_view_f685bb9bdb356300c61185184b9619d9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-21 14:39:04</sys_updated_on>
+        <title>Business_application</title>
+        <user/>
+    </sys_ui_view>
+</record_update>
